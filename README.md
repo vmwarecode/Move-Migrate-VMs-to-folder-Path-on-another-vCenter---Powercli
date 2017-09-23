@@ -1,0 +1,1 @@
+# Move-Migrate-VMs-to-folder-Path-on-another-vCenter---Powercli
